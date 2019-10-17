@@ -1,0 +1,9 @@
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Shared\bin\Debug\netcoreapp2.2\TesourariaVirtual.Shared.deps.json
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Shared\bin\Debug\netcoreapp2.2\TesourariaVirtual.Shared.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Shared\bin\Debug\netcoreapp2.2\TesourariaVirtual.Shared.pdb
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Shared\obj\Debug\netcoreapp2.2\TesourariaVirtual.Shared.csprojAssemblyReference.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Shared\obj\Debug\netcoreapp2.2\TesourariaVirtual.Shared.csproj.CoreCompileInputs.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Shared\obj\Debug\netcoreapp2.2\TesourariaVirtual.Shared.AssemblyInfoInputs.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Shared\obj\Debug\netcoreapp2.2\TesourariaVirtual.Shared.AssemblyInfo.cs
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Shared\obj\Debug\netcoreapp2.2\TesourariaVirtual.Shared.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Shared\obj\Debug\netcoreapp2.2\TesourariaVirtual.Shared.pdb
