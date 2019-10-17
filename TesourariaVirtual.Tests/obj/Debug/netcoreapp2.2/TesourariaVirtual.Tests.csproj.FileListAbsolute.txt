@@ -1,0 +1,13 @@
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\bin\Debug\netcoreapp2.2\TesourariaVirtual.Tests.deps.json
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\bin\Debug\netcoreapp2.2\TesourariaVirtual.Tests.runtimeconfig.json
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\bin\Debug\netcoreapp2.2\TesourariaVirtual.Tests.runtimeconfig.dev.json
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\bin\Debug\netcoreapp2.2\TesourariaVirtual.Tests.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\bin\Debug\netcoreapp2.2\TesourariaVirtual.Tests.pdb
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\obj\Debug\netcoreapp2.2\TesourariaVirtual.Tests.csproj.CoreCompileInputs.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\obj\Debug\netcoreapp2.2\TesourariaVirtual.Tests.AssemblyInfoInputs.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\obj\Debug\netcoreapp2.2\TesourariaVirtual.Tests.AssemblyInfo.cs
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\obj\Debug\netcoreapp2.2\TesourariaVirtual.Tests.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual.Tests\obj\Debug\netcoreapp2.2\TesourariaVirtual.Tests.pdb

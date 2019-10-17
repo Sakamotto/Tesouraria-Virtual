@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TesourariaVirtual.Data</id>
+    <version>1.0.0</version>
+    <authors>TesourariaVirtual.Data</authors>
+    <owners>TesourariaVirtual.Data</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual.Data\bin\Debug\netcoreapp2.2\TesourariaVirtual.Data.dll" target="lib\netcoreapp2.2\TesourariaVirtual.Data.dll" />
+  </files>
+</package>
