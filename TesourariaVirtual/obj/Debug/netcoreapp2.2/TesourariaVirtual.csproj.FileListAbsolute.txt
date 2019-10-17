@@ -1,0 +1,33 @@
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.deps.json
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.runtimeconfig.json
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.runtimeconfig.dev.json
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.dll
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.pdb
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.csprojAssemblyReference.cache
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.RazorAssemblyInfo.cache
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.RazorAssemblyInfo.cs
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.AssemblyInfoInputs.cache
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.AssemblyInfo.cs
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.RazorTargetAssemblyInfo.cache
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.dll
+C:\Users\Cristian\Documents\Cristian\Desenvolvimento\Tesoureiro Virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.pdb
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.csprojAssemblyReference.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.csproj.CoreCompileInputs.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.RazorAssemblyInfo.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.RazorAssemblyInfo.cs
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.AssemblyInfoInputs.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.AssemblyInfo.cs
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.deps.json
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.runtimeconfig.json
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.runtimeconfig.dev.json
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.pdb
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.Data.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.Domain.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.Data.pdb
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\bin\Debug\netcoreapp2.2\TesourariaVirtual.Domain.pdb
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.RazorTargetAssemblyInfo.cache
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.csproj.CopyComplete
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.dll
+D:\DevCristian\Desenvolvimento\tesouraria-virtual\TesourariaVirtual\TesourariaVirtual\obj\Debug\netcoreapp2.2\TesourariaVirtual.pdb
