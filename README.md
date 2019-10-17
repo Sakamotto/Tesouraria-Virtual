@@ -1,2 +1,3 @@
-# Tesouraria-Virtual
-App para a gerência de finanças pessoais
+# Tesouraria Virtual
+
+ - Projeto para gerência de finanças pessoais.
